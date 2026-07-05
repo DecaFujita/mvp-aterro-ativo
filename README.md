@@ -15,3 +15,8 @@ https://miro.com/app/board/uXjVHK7p5x4=/
 
 Link Figma:
 https://www.figma.com/design/TwZhnkdrb0yGCkugIA9doX/Untitled?node-id=0-1&t=wvITY9cPhSvS9MKT-1
+
+Link Youtube:
+https://youtu.be/QIexffctqvU
+
+PDF Jira: arquivo no GitHub
